@@ -1,0 +1,59 @@
+{
+    "name": "ReferralCandy",
+    "description": "Our app is designed to help make online store owners more money. It works by making it super easy for sellers to conduct their own customer referral programs.     We take the hassle out of sending out emails, tracking forwards and rewarding referrals b...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1129-referralcandy.jpg",
+    "tags": [
+        "commerce",
+        "customers",
+        "have api",
+        "referrers",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/referralcandy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ReferralCandy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1129-referralcandy.jpg",
+            "humanURL": "http:\/\/www.referralcandy.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/referralcandy-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/referralcandy-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.referralcandy.com\/api\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.referralcandy.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/referralcandy"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/referralcandy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/ReferralCandy"
+        }
+    ]
+}
