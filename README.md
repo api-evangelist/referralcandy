@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ReferralCandy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://referralcandy.com/
+ReferralCandy provides a referral and affiliate program platform for e‑commerce businesses, enabling merchants to create, manage, and track customer referral campaigns. The service offers automated reward distribution, fraud protection, detailed analytics, and integrations with major e‑commerce platforms such as Shopify, WooCommerce, and Klaviyo. It helps brands grow through word‑of‑mouth marketing by turning satisfied customers into brand advocates.
+
+**Areas:** Company · Referral · Affiliate · E-commerce · Marketing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://referralcandy.com/)
+- [Documentation](https://help.referralcandy.com/)
+- [Pricing](https://www.referralcandy.com/pricing/)
+- [Support](https://help.referralcandy.com/en/)
+- [Blog](https://www.referralcandy.com/blog/)
+- [Security](https://www.referralcandy.com/security/)
+- [Terms of service](https://www.referralcandy.com/terms/)
+- [Privacy policy](https://www.referralcandy.com/privacy/)
+- [GitHub](https://github.com/ReferralCandy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/referralcandy/](https://apis.io/providers/referralcandy/).
